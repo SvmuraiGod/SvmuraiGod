@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f9827582-e209-4733-b509-59ae98a12185" 
+<img src="https://github.com/user-attachments/assets/a048c0be-910f-4683-a2a6-6d32c6c3d11a" 
 alt="description" width="412" />
 </p>
 
@@ -17,4 +17,3 @@ $$\color{#7c4b91} \text{ 'Kokushibo glazer. They/we, SV usually. pub chats alway
 
 <p align="center">
 Work in progress. please bear with me
-

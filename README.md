@@ -13,7 +13,7 @@ alt="description" width="412" />
 </p>
 
 <p align="center">
-$$\color{#7c4b91} \text{ 'Kokushibo glazer. They/we, SV usually. pub chats always off'}$$
+$$\color{#7c4b91} \text{ 'Kokushibo glazer. They/we/He, SV usually. pub chats always off'}$$
 
 <p align="center">
 Work in progress. please bear with me
